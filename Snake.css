@@ -1,0 +1,32 @@
+#btn{
+    left: 200px;
+    top: 170px;
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: #1d5e47;
+    color: white;
+    border: solid #1d5e47;
+    border-width: 1.5px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+#btn:hover{
+    background-color: white;
+    color:  #1d5e47;
+    border: solid white;
+
+}
+
+#toolbar{
+    background-color: #95c4b3;
+    border: solid black thin;
+}
+#toolbarset{
+    display: inline-block;
+}
+#background{
+    border: solid #1d5e47;
+    border-width: 1.5px;
+    border-radius: 3px;
+}
